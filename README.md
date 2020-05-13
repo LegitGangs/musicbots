@@ -1,2 +1,0 @@
-# musicbots
-Müzik Botumuzun Komutları
