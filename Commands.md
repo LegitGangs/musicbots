@@ -1,7 +1,7 @@
 # musicbot
 Müzik Botumuzun Komutları
 
-!istatistikk
+!istatistik
 !yardım
 !davet
 !ping
